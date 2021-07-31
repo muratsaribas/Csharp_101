@@ -1,0 +1,16 @@
+C:\Users\murat\Desktop\YL\C#\console_1\bin\Debug\net5.0\console_1.exe
+C:\Users\murat\Desktop\YL\C#\console_1\bin\Debug\net5.0\console_1.deps.json
+C:\Users\murat\Desktop\YL\C#\console_1\bin\Debug\net5.0\console_1.runtimeconfig.json
+C:\Users\murat\Desktop\YL\C#\console_1\bin\Debug\net5.0\console_1.runtimeconfig.dev.json
+C:\Users\murat\Desktop\YL\C#\console_1\bin\Debug\net5.0\console_1.dll
+C:\Users\murat\Desktop\YL\C#\console_1\bin\Debug\net5.0\ref\console_1.dll
+C:\Users\murat\Desktop\YL\C#\console_1\bin\Debug\net5.0\console_1.pdb
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\console_1.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\console_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\console_1.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\console_1.AssemblyInfo.cs
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\console_1.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\console_1.dll
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\ref\console_1.dll
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\console_1.pdb
+C:\Users\murat\Desktop\YL\C#\console_1\obj\Debug\net5.0\console_1.genruntimeconfig.cache
