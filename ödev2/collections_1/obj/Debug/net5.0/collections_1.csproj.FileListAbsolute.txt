@@ -1,0 +1,16 @@
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\collections_1.csproj.AssemblyReference.cache
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\collections_1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\collections_1.AssemblyInfoInputs.cache
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\collections_1.AssemblyInfo.cs
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\collections_1.csproj.CoreCompileInputs.cache
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\bin\Debug\net5.0\collections_1.exe
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\bin\Debug\net5.0\collections_1.deps.json
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\bin\Debug\net5.0\collections_1.runtimeconfig.json
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\bin\Debug\net5.0\collections_1.runtimeconfig.dev.json
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\bin\Debug\net5.0\collections_1.dll
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\bin\Debug\net5.0\ref\collections_1.dll
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\bin\Debug\net5.0\collections_1.pdb
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\collections_1.dll
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\ref\collections_1.dll
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\collections_1.pdb
+c:\Users\murat\Desktop\YL\C#\ödev2\collections_1\obj\Debug\net5.0\collections_1.genruntimeconfig.cache
